@@ -1,1 +1,1 @@
-# Parch Linux Budgie
+# Parch Linux mate
