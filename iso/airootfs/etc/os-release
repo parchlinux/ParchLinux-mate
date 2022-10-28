@@ -1,0 +1,10 @@
+NAME="Parch Linux"
+PRETTY_NAME="Parch Linux"
+ID=parch
+BUILD_ID=rolling
+ANSI_COLOR="38;2;23;147;209"
+HOME_URL="https://parchlinux.ir/"
+DOCUMENTATION_URL="https://parchlinux.ir/blog"
+SUPPORT_URL="https://github.com/orgs/parchlinux/discussions"
+BUG_REPORT_URL="https://github.com/orgs/parchlinux/discussions"
+LOGO=parchlinux-logo

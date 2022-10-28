@@ -27,7 +27,7 @@ if not (repo_name and api_key and release_name):
 
 
 gh = Github(api_key)
-repo = gh.get_repo(f"parch-os/{repo_name}")
+repo = gh.get_repo(f"parchlinux/{repo_name}")
 
 release = repo.get_release(release_name)
 

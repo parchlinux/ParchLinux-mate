@@ -4,6 +4,7 @@ arch-install-scripts
 archinstall
 b43-fwcutter
 base
+bat
 bind
 brltty
 broadcom-wl
@@ -11,6 +12,7 @@ btrfs-progs
 clonezilla
 cloud-init
 cryptsetup
+curl
 darkhttpd
 ddrescue
 dhclient
@@ -39,11 +41,8 @@ grub
 hdparm
 hyperv
 intel-ucode
-ipw2100-fw
-ipw2200-fw
 irssi
 iw
-iwd
 jfsutils
 kitty-terminfo
 less
@@ -67,6 +66,7 @@ mkinitcpio
 mkinitcpio-archiso
 mkinitcpio-nfs-utils
 modemmanager
+networkmanager
 mtools
 nano
 nbd
@@ -141,7 +141,6 @@ vazirmatn-fonts
 sddm
 mate
 mate-extra
-parch-sddm-config
 qogir-gtk-theme
 papirus-icon-theme
 parch-os-wallpapers
@@ -153,3 +152,4 @@ calamares
 parch-calamares-config
 geany
 appimagelauncher
+pulseaudio
